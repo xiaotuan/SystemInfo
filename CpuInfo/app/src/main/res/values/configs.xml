@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cpu_available_frequencies_path">"/sys/devices/system/cpu/cpu0/cpufreq/scaling_available_frequencies"</string>
+
+</resources>
